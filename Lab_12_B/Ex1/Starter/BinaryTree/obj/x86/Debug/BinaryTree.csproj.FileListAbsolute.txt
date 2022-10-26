@@ -1,0 +1,6 @@
+C:\Program Files\Microsoft Learning\20483\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Program Files\Microsoft Learning\20483\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Program Files\Microsoft Learning\20483\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Program Files\Microsoft Learning\20483\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Program Files\Microsoft Learning\20483\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.dll
+C:\Program Files\Microsoft Learning\20483\Labfiles\Lab 12\Lab B\Ex1\Starter\BinaryTree\obj\x86\Debug\BinaryTree.pdb
